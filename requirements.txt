@@ -1,0 +1,6 @@
+OpenCV
+mediapipe
+
+Install commands:
+1-pip3 install opencv-python
+2-pip3 install mediapipe
